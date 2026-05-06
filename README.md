@@ -36,8 +36,23 @@ This repository contains:
 - Third-party download notes in `third-party`
 - Example server configuration in `server-config`
 - The OSCity world package in `worlds/OSCityWorld.zip`
+- Study-period deployment scripts in `scripts`
 
 The full playable experience requires the OSCity world because gameplay depends on pre-built rooms, signs, buttons, chests, item frames, maps, and configured coordinates.
+
+## Deployment Scripts
+
+The `scripts/` folder contains the shell scripts I used during the study-period server deployment. In the original deployment folder, these scripts sat at the top level of the Paper server directory, next to the `OSCity/` plugin folder, `plugins/`, the world folder, and the Paper jar.
+
+The study deployment used four separate Paper server folders on the same remote machine:
+
+
+```text
+p1 -> 25565
+p2 -> 25566
+p3 -> 25567
+p4 -> 25568
+
 
 ## Local Setup
 
