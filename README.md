@@ -17,8 +17,8 @@ To join:
 3. Click **Add Server**.
 4. Enter any server name, for example `OSCity`.
 5. In **Server Address**, enter the address assigned to you:
-   - Dr Marzagao: `89.167.39.43:25565`
-   - Second marker: `89.167.39.43:25566`
+   - Dr Marzagao: `116.202.100.198:25565`
+   - Second marker: `116.202.100.198:25566`
 6. Click **Done**.
 7. Select the server from the multiplayer list and click **Join Server**.
 
